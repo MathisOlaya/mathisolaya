@@ -30,6 +30,7 @@
         </td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=react" />
+          <img src="https://skillicons.dev/icons?i=cs" />
         </td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=cs,dotnet" />
@@ -38,7 +39,7 @@
         <td align="center">
           <img src="https://skillicons.dev/icons?i=docker,vscode,visualstudio,postman,powershell" />
           <br/>
-          <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres" />
+          <img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,mongodb" />
         </td>
       </tr>
     </tdata>
