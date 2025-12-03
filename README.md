@@ -27,7 +27,7 @@
         <td align="center">
           <img src="https://skillicons.dev/icons?i=nodejs,vuejs,react,nestjs,adonis,express" />
           <br/>
-          <img src="https://skillicons.dev/icons?i=javascript,typescript,html,css,npm" />
+          <img src="https://skillicons.dev/icons?i=tailwindcss,javascript,typescript,html,css,npm" />
         </td>
         <td align="center">
           <img src="https://skillicons.dev/icons?i=react" />
